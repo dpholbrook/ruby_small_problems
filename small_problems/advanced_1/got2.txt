@@ -1,0 +1,7 @@
+In the wake of the %{adjective} %{noun} hunt beyond the Wall,
+Jaime and Bronn %{verb} %{adverb} from atop the %{adjective} %{noun} of King’s Landing
+as Daenerys’ %{noun} and %{noun} arrive in the city for the Dragonpit summit.
+As Westeros’ major players %{verb} to the %{adjective} %{noun},
+Tyrion, Bronn and Pod are %{verb} %{adverb}
+and the Hound and Brienne make %{adjective} %{noun},
+with both %{verb}ing that they only fought each other to protect Arya.
